@@ -31,9 +31,9 @@ export default function LibraryContextProvider({ children }) {
       setIsLiked(false)
     }
 
-    // if(!response.ok) {
-      // console.clear()
-    // }
+    if(!response.ok) {
+      console.clear()
+    }
   }
 
   function removeLikeFromLibrary(songId) {
