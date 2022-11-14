@@ -214,7 +214,7 @@ export default function Player() {
             } */}
           </div>
         </div>
-        <div className="volume-wrapper">
+        <div className="volume-wrapper" style={{ visibility : 'hidden' }}>
           <div className="volume-align-right">
             <button className="volume-bar-icon">
               <svg role="presentation" height="16" width="16" aria-label="Volume high" id="volume-icon" viewBox="0 0 16 16">
