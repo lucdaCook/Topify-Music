@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Topify-Music/static/css/main.a2a9c9cd.css",
+    "main.js": "/Topify-Music/static/js/main.11f94c16.js",
+    "index.html": "/Topify-Music/index.html",
+    "main.a2a9c9cd.css.map": "/Topify-Music/static/css/main.a2a9c9cd.css.map",
+    "main.11f94c16.js.map": "/Topify-Music/static/js/main.11f94c16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a9c9cd.css",
+    "static/js/main.11f94c16.js"
+  ]
+}
